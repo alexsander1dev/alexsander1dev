@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil.
+## Bem-vindo(a) ao perfil de Alexsander.
  <div>
    <a href="https://github.com/alexsander1dev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexsander1dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -16,7 +16,7 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="" target="_blank"><img src="" target="_blank"></a>
+  <a href="http://lattes.cnpq.br/9294926683366274" target="_blank"><img src="" target="_blank"></a>
   <a href="https://instagram.com/98alexsander" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alexsander.junior1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
