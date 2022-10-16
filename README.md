@@ -18,7 +18,7 @@
  
 <div> 
   <a href= "mailto:alexsander.junior1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
-  <a href= "https://www.linkedin.com/in/alexsander-junio-da-silva-galv%C3%A3o-21177a23b" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a> 
+  <a href= "https://www.linkedin.com/in/alexsander-junio-da-silva-galv%C3%A3o-21177a23b" target="_blank" rel="external" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a> 
  <a href= "http://lattes.cnpq.br/9294926683366274" target="_blank"><img src="https://img.shields.io/badge/lattes-teal?logo=&style=for-the-badge" target="_blank" rel="external"></a>
  
   ![Snake animation](https://github.com/alexsander1dev/alexsander1dev/blob/output/github-contribution-grid-snake.svg)
